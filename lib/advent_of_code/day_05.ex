@@ -8,5 +8,4 @@ defmodule AdventOfCode.Day05 do
   def parseInput(input) do
     String.split(input, "\n", trim: true)
   end
-
 end

@@ -7,5 +7,4 @@ defmodule AdventOfCode.Day04 do
 
   def parseInput(input) do
   end
-
 end
