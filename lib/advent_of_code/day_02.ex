@@ -16,4 +16,3 @@ defmodule AdventOfCode.Day02 do
     |> Enum.map(fn x -> Enum.map(x, &String.to_integer(&1)) |> Enum.sort() end)
   end
 end
-git
